@@ -11,6 +11,7 @@ To determine the summary statistic for June and December.
 Summary statistics for the months of June and December are as follows: -  
 ![Map](June_Temp.PNG)
 ![Map](Dec_Temp.PNG)
+
 ![Map](Plot_June_Temp.PNG)                             
 ![Map](Plot_Dec_Temp.PNG)
 
